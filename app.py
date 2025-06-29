@@ -115,6 +115,7 @@ def main() -> None:
             )
         else:
             rprint(Panel("Task Completed", style="bold green"))
+            print("Hello World")
             break
 
 
