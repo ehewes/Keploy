@@ -67,7 +67,7 @@ def main() -> None:
                 },
                 {
                     "role": "user",
-                    "content": "can you list all issues in TechEurope repository?",
+                    "content": "Can you review the current PRs for Keploy and review the code and explain it?",
                 },
             ]
             + chat_history,
